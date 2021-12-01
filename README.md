@@ -1,2 +1,3 @@
-# incoterms_2020
-Descriptions of the 2020 INCOTerms values
+# INCOTerms 2020
+
+INCOTerms are updated every ten years. This repository offers the translated names of INCOTerms for the 2020 revision.
