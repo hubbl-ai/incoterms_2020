@@ -1,0 +1,78 @@
+# INCOTerms 2020
+# Copyright (C) 2021 hubbl.ai
+# Scott Deerwester <scott@hubbl.ai>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: INCOTerms 2020\n"
+"PO-Revision-Date: 2021-12-01 16:20 +5\n"
+"Last-Translator: Scott Deerwester <scott@hubbl.ai>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Translators: misc
+msgid "INCOTERMS.EXW"
+msgstr "Ex Works"
+
+#. Translators: misc
+msgid "INCOTERMS.FCA"
+msgstr "Free Carrier"
+
+#. Translators: misc
+msgid "INCOTERMS.FCA_FMT"
+msgstr "Free Carrier ({place})"
+
+#. Translators: misc
+msgid "INCOTERMS.FAS"
+msgstr "Free Alongside Ship"
+
+#. Translators: misc
+msgid "INCOTERMS.FOB"
+msgstr "Free on Board"
+
+#. Translators: misc
+msgid "INCOTERMS.CFR"
+msgstr "Cost and Freight"
+
+#. Translators: misc
+msgid "INCOTERMS.CIF"
+msgstr "Cost, Insurance & Freight"
+
+#. Translators: misc
+msgid "INCOTERMS.CPT"
+msgstr "Carriage Paid To place"
+
+#. Translators: misc
+msgid "INCOTERMS.CPT_FMT"
+msgstr "Carriage Paid To {{place}}"
+
+#. Translators: misc
+msgid "INCOTERMS.CIP"
+msgstr "Carriage and Insurance Paid to place"
+
+#. Translators: misc
+msgid "INCOTERMS.CIP_FMT"
+msgstr "Carriage and Insurance Paid to {{place}}"
+
+#. Translators: misc
+msgid "INCOTERMS.DPU"
+msgstr "Delivered at Place Unloaded"
+
+#. Translators: misc
+msgid "INCOTERMS.DPU_FMT"
+msgstr "Delivered at Place Unloaded ({{place}})"
+
+#. Translators: misc
+msgid "INCOTERMS.DAP"
+msgstr "Delivered at Place"
+
+#. Translators: misc
+msgid "INCOTERMS.DAP_FMT"
+msgstr "Delivered at Place ({place})"
+
+#. Translators: misc
+msgid "INCOTERMS.DDP"
+msgstr "Delivered Duty Paid"
+
